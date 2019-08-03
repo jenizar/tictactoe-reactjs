@@ -11,7 +11,7 @@ https://youtu.be/Rewz7aN5uho
 
 1. git clone https://github.com/jenizar/tictactoe-reactjs.git
 
-2. cd tic-tac-toe
+2. cd tictactoe-reactjs
 
 3. npm install
 
