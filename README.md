@@ -6,6 +6,7 @@
 
 Youtube video:
 
+https://youtu.be/Rewz7aN5uho
 
 
 1. git clone https://github.com/jenizar/tictactoe-reactjs.git
