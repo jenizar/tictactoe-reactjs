@@ -1,6 +1,9 @@
 # tictactoe-reactjs
  Deploying ReactJS Apps - Tic Tac Toe -  on SAP Cloud Platform
- 
+
+![alt text](http://url/to/img.png)
+
+
 1. git clone https://github.com/biodunch/tic-tac-toe.git
 
 2. cd tic-tac-toe
